@@ -68,3 +68,7 @@ Este script simula várias conexões concorrentes ao servidor, enviando operaç�
 - `1 + 2 * 3`
 - `(10 + 5) / 3`
 
+## 💡 Considerações Finais
+A implementação deste projeto serviu como uma valiosa experiência de aprendizagem, proporcionando uma compreensão prática dos conceitos de comunicação em rede com sockets, execução concorrente com threads e processamento de requisições cliente-servidor.
+
+Foi uma excelente oportunidade para consolidar conhecimentos e exercitar a lógica de programação aplicada a sistemas distribuídos.
